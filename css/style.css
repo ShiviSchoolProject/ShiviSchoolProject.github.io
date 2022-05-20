@@ -189,12 +189,14 @@ span{
     .about-text,
     .main,
     .bottom,
-    .container{
+    .container,
+    .about img{
         float: none;
         text-align: center;
         width: 100%;
         display:list-item;
         list-style: none;
         margin-top: 10px;
+        width: 99%;
 }
 }
