@@ -197,6 +197,7 @@ span{
         display:list-item;
         list-style: none;
         margin-top: 10px;
+        margin-left: 10px;
         width: 99%;
 }
 }
